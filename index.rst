@@ -6,6 +6,17 @@
 Welcome to Hoi An Digital Nomad Guide's documentation!
 ======================================================
 
+
+Where to find a doctor?
+
+Trần Quang Dũng, MD
+503 Hai Ba Trung
+
+Everyday, 6.30 to 12.00 and 3.00 to 6.30
+
+http://hoianmedicalservices.com/
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
